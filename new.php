@@ -20,7 +20,7 @@
         <form action="">
             <div class="row">
                 <label for="code">Student Code</label>
-                <input name="icoded" type="text" placeholder "XXXX999" minlength="7" maxlength="7" required>
+                <input name="code" type="text" placeholder="XXXX999" minlength="7" maxlength="7" required>
             </div>
             <div class="row">
                 <label for="surname">Surname</label>
