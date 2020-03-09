@@ -14,7 +14,7 @@
         <form action="">
             <div class="row">
                 <label for="code">Student Code</label>
-                <input name="icoded" type="text" readonly value="">
+                <input name="code" type="text" readonly value="">
             </div>
             <div class="row">
                 <label for="surname">Surname</label>
